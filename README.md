@@ -1,6 +1,6 @@
 ## Academic Gateway
 * [Google scholar](https://scholar.google.com.hk/citations?user=5dbp1zMAAAAJ&hl=zh-CN)
-
+* <a href="https://scholar.google.com.hk/citations?user=5dbp1zMAAAAJ&hl=zh-CN" style="text-decoration: none;">Google Scholar</a>
 
 ## Publications
 
