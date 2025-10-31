@@ -32,7 +32,7 @@
 Junsheng Xin, Zaigang Chen*, **Xin Chen**, Liang Guo  
 *IEEE Transactions on Instrumentation and Measurement*, 74 (2025) 1–11. [[Paper](https://doi.org/10.1109/TIM.2025.3551858)]
 
-### 🎤 Conference / Oral Presentations
+### Conference / Oral Presentations
 1. **A semi-supervised learning fault diagnosis method for induction motor using generative adversarial networks and fine-tuning**  
 **Xin Chen**, Zaigang Chen*  
 *2024 8th International Conference on Condition Monitoring of Machinery in Non-Stationary Operations (CMMNO)*, Wenzhou, May 11-13, 2024. (**Best Paper Award**)
