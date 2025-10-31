@@ -2,7 +2,6 @@
 
 🎓 PhD Candidate | 🤖 Machine Learning | 🏭 Industrial maintenance | 🔧 Fault Diagnosis
 
----
 
 ## 📚 Academic Gateway
 * [Google scholar](https://scholar.google.com.hk/citations?user=5dbp1zMAAAAJ&hl=zh-CN)
@@ -11,7 +10,6 @@
 * [WOS](https://webofscience.clarivate.cn/wos/author/record/MHR-7293-2025)
 * [ResearchGate](https://www.researchgate.net/profile/Xin-Chen-421/research?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZVZlcmlmaWNhdGlvbiJ9fQ)
 
----
  
 ## 📝 Publications
 ### Journal
@@ -25,12 +23,11 @@
 ### 🎤 Conference / Oral Presentations
 1. **A semi-supervised learning fault diagnosis method for induction motor using generative adversarial networks and fine-tuning**
 **Xin Chen**, Zaigang Chen*
-2024 8th International Conference on Condition Monitoring of Machinery in Non-Stationary Operations (CMMNO), Wenzhou, May 11-13, 2024. (**Best Paper Award**)
+*2024 8th International Conference on Condition Monitoring of Machinery in Non-Stationary Operations (CMMNO)*, Wenzhou, May 11-13, 2024. (**Best Paper Award**)
 1. Multiband Clustering Weighted Envelope Spectrum for Axle-Box Bearing Fault Diagnosis
 Junsheng Xin, Zaigang Chen*, **Xin Chen**
-2025 International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM) , Xinjiang, August 1-3, 2025. (**Best Poster Award**)
+*2025 International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM)*, Xinjiang, August 1-3, 2025. (**Best Poster Award**)
 
----
 
 ## 👨‍💼 Journal Reviewer
 * IEEE Transactions on Industrial Informatics
@@ -39,8 +36,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 * Cognitive Computation.
 * Scientific Reports
 
----
 
 ## 📬 Contact
-* chenxin2022atmy.swjtu.edu.cn
-* chenxinnpu@gmail.com
+* chenxin2022 [at] my.swjtu.edu.cn
+* chenxinnpu [at] gmail.com
