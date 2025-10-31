@@ -15,7 +15,7 @@
 ### Journal
 1. **Discriminative Condition-Guided Generative Model for Induction Motor Fault Diagnosis with Limited Data**  
 **Xin Chen**, Zaigang Chen*, Junsheng Xin, Liang Guo, Wanming Zhai  
-*IEEE Transactions on Industrial Informatics*. [incoming] [[Code](https://github.com/xinswjtu/DCGM-IFD)]
+*IEEE Transactions on Industrial Informatics* | [[Code](https://github.com/xinswjtu/DCGM-IFD)]
 1. **Pseudo-label assisted semi-supervised adversarial enhancement learning for fault diagnosis of gearbox degradation with limited data**  
 **Xin Chen**, Zaigang Chen*, Liang Guo, Wanming Zhai  
 *Mechanical Systems and Signal Processing*, 224 (2025) 112108. [[Paper](https://www.sciencedirect.com/science/article/pii/S0888327024010069)] [[Code](https://github.com/xinswjtu/Pseudo-label-SSAEL)]
