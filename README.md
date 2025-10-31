@@ -16,7 +16,7 @@
 1. **Discriminative Condition-Guided Generative Model for Induction Motor Fault Diagnosis with Limited Data**  
 **Xin Chen**, Zaigang Chen*, Junsheng Xin, Liang Guo, Wanming Zhai  
 *IEEE Transactions on Industrial Informatics*. [[Code](https://github.com/xinswjtu/DCGM-IFD)]
-1. **Pseudo-label assisted semi-supervised adversarial enhancement learning for fault diagnosis of gearbox degradation with limited data**[![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1016/j.ymssp.2024.112108%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C))  
+1. **Pseudo-label assisted semi-supervised adversarial enhancement learning for fault diagnosis of gearbox degradation with limited data**  
 **Xin Chen**, Zaigang Chen*, Liang Guo, Wanming Zhai  
 *Mechanical Systems and Signal Processing*, 224 (2025) 112108. [[Paper](https://www.sciencedirect.com/science/article/pii/S0888327024010069)] [[Code](https://github.com/xinswjtu/Pseudo-label-SSAEL)]
 1. **Unsupervised gan with fine-tuning: A novel framework for induction motor fault diagnosis in scarcely labeled sample scenarios**[![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1109/TIM.2024.3446655%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:4MWp96NkSFoC))  
@@ -52,3 +52,5 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 ## 📬 Contact
 * chenxin2022 [at] my.swjtu.edu.cn
 * chenxinnpu [at] gmail.com
+
+[![Citations](https://img.shields.io/badge/dynamic/jsonlabel=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1016/j.ymssp.2024.112108%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C))
