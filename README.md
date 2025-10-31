@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Xin Chen
 
-🎓 PhD Candidate | 🤖 Machine Learning | 🏭 Industrial maintenance | 🔧 Fault Diagnosis
+🎓 PhD Candidate | 🔧 Machine Fault Diagnosis | 🤖 Deep Generative Model | 📈 Vibration Signal Processing
 
 
 ## 📚 Academic Gateway
