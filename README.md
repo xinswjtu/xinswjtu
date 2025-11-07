@@ -37,7 +37,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**, Liang Guo
 **Xin Chen**, Zaigang Chen*  
 *2024 8th International Conference on Condition Monitoring of Machinery in Non-Stationary Operations (CMMNO)*, Wenzhou, May 11-13, 2024. (🏆**Best Paper Award**)
 1. **Multiband Clustering Weighted Envelope Spectrum for Axle-Box Bearing Fault Diagnosis**  
-Junsheng Xin, Zaigang Chen*, *Xin Chen*
+Junsheng Xin, Zaigang Chen*, **Xin Chen**
 *2025 International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM)*, Urumqi, August 1-4, 2025. (🏆**Best Poster Award**)
 
 
