@@ -49,12 +49,14 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 
 
 ## 👨‍💼 Journal Reviewer
-* IEEE Transactions on Industrial Informatics
 * Advanced Engineering Informatics
+* IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Instrumentation and Measurement
+* IEEE Access
 * Signal, Image and Video Processing
 * Cognitive Computation
 * Scientific Reports
+* Entropy
 
 
 ## 📬 Contact
