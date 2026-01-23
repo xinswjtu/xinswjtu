@@ -51,7 +51,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 ## 👨‍💼 Journal Reviewer
 * Advanced Engineering Informatics
 * IEEE Transactions on Industrial Informatics
-* IEEE Transactions on Instrumentation and Measurement
+* IEEE Transactions on Instrumentation and Measurement (🔥**2025 Outstanding Reviewer**)
 * IEEE Access
 * Signal, Image and Video Processing
 * Cognitive Computation
