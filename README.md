@@ -1,11 +1,9 @@
 # 👋 Hello, I'm Xin Chen
 
-🎓 PhD Candidate |  |  | 
-
 He is currently pursuing a Ph.D. in Traffic and Transportation Engineering under the supervision of Prof. [Zaigang Chen](https://faculty.swjtu.edu.cn/chenzaigang/zh_CN/index.htm) at the State Key Laboratory of Rail Transit Vehicle System (RVL), Southwest Jiaotong University (SWJTU), Chengdu, China. He has published multiple research papers in reputable journals, including **IEEE TII**, **IEEE TIM**, and **MSSP**. In 2024, he was honored with the **Best Paper Award** at the International Conference on Condition Monitoring of Machinery in Non-Stationary Operations (CMMNO). Additionally, he also serves as a reviewer for several journals, such as IEEE TII / TIM / ACCESS, Advanced Engineering Informatics, Signal, Image and Video Processing, and Cognitive Computation. He was recognized as an **Outstanding Reviewer of 2025** by the IEEE Instrumentation and Measurement Society for providing thorough, timely, and objective peer reviews. His research interests include but are not limited to:
-* 🔧 Machine Fault Diagnosis
-* 🤖 Deep Generative Model
-* 📈 Vibration Signal Processing
+* Machine Fault Diagnosis
+* Deep Generative Model
+* Vibration Signal Processing
 
 
 ## 📚 Academic Gateway
