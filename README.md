@@ -56,6 +56,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 * Signal, Image and Video Processing
 * Cognitive Computation
 * Scientific Reports
+* Journal of Supercomputing
 * Entropy
 
 
