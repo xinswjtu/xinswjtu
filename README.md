@@ -25,18 +25,21 @@ He is currently pursuing a Ph.D. in Traffic and Transportation Engineering under
 1. **Cross-domain fault diagnosis of induction motor based on an improved unsupervised generative adversarial network and fine-tuning under limited labeled data** [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1016/j.measurement.2025.116988%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:L7CI7m0gUJcC)))  
 **Xin Chen**, Zaigang Chen*  
 *Measurement*, 249 (2025) 116988. [[Paper](https://www.sciencedirect.com/science/article/pii/S0263224125003471)]
-1. **A UNet-Guided Generative Model for Multi-Mode Data Augmentation to Enhance Bearing Fault Diagnosis under Data Scarcity**  
-**Xin Chen**, Zaigang Chen*, Junsheng Xin, Liming Wang  
+1. **A Layer-wise Information-guided Conditional Generative Model for Industrial Data Augmentation**  
+**Xin Chen**, Zaigang Chen*, Junsheng Xin, Yuqing Liu, Liming Wang  
 [Under Review] [[Code](https://github.com/xinswjtu/UnetGen-IFD)]
-1. **Parameter-adaptive Feature Mode Decomposition Method for Compound Fault Feature Extraction in Rotating Machinery** [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1109/JSEN.2025.3553284%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:tYavs44e6CUC)))  
-Junsheng Xin, Zaigang Chen*, **Xin Chen**, Liang Guo  
-*IEEE Sensors Journal*, 25 (2025) 17491-17502. [[Paper](https://ieeexplore.ieee.org/abstract/document/10944221))]
+1. **Gen-UDA: A Novel Generation to Unsupervised Domain Adaptation Framework for Machine Fault Detection with Limited Target Measurements**  
+**Xin Chen**, Zaigang Chen*, Yuqing Liu, Wanming Zhai  
+[Under Review] [[Code](https://github.com/xinswjtu/Gen-UDA)]
 1. **An effective two-stage clustering method for mixing matrix estimation in instantaneous underdetermined blind source separation and its application in fault diagnosis** [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1109/ACCESS.2021.3105538%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:tYavs44e6CUC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:xtoqd-5pKcoC))))  
 Jindong Wang, **Xin Chen**, Haiyang Zhao, Yanyang Li, Delong Yu  
 *IEEE Access*, 9 (2021) 115256-115269. [[Paper](https://ieeexplore.ieee.org/abstract/document/9514888))]
 1. **Fault feature extraction for reciprocating compressors based on underdetermined blind source separation** [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.3390/e23091217%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:PoWvk5oyLR8C)))  
 Jindong Wang, **Xin Chen**, Haiyang Zhao, Yanyang Li, Zujian Liu  
 *Entropy*, 9 (2021) 1217. [[Paper](https://www.mdpi.com/1099-4300/23/9/1217))]
+1. **Parameter-adaptive Feature Mode Decomposition Method for Compound Fault Feature Extraction in Rotating Machinery** [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1109/JSEN.2025.3553284%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:tYavs44e6CUC)))  
+Junsheng Xin, Zaigang Chen*, **Xin Chen**, Liang Guo  
+*IEEE Sensors Journal*, 25 (2025) 17491-17502. [[Paper](https://ieeexplore.ieee.org/abstract/document/10944221))]
 
 
 ### Conference / Oral Presentations
