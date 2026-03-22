@@ -17,37 +17,37 @@ He is currently pursuing a Ph.D. in Traffic and Transportation Engineering under
 [Xin Chen](), Zaigang Chen*, Junsheng Xin, Liang Guo, Wanming Zhai  
 *IEEE Transactions on Industrial Informatics*, 22 (2026) 1359-1370. [[Paper](https://ieeexplore.ieee.org/document/11278460)] [[Code](https://github.com/xinswjtu/DCGM-IFD)]
 1. **Pseudo-label assisted semi-supervised adversarial enhancement learning for fault diagnosis of gearbox degradation with limited data**  
-**Xin Chen**, Zaigang Chen*, Liang Guo, Wanming Zhai  
+[Xin Chen](), Zaigang Chen*, Liang Guo, Wanming Zhai  
 *Mechanical Systems and Signal Processing*, 224 (2025) 112108. [[Paper](https://www.sciencedirect.com/science/article/pii/S0888327024010069)] [[Code](https://github.com/xinswjtu/Pseudo-label-SSAEL)] [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1016/j.ymssp.2024.112108%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:4MWp96NkSFoC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C)))
 1. **Unsupervised gan with fine-tuning: A novel framework for induction motor fault diagnosis in scarcely labeled sample scenarios**  
-**Xin Chen**, Zaigang Chen*, Shiqian Chen, Liming Wang, Wanming Zhai  
+[Xin Chen](), Zaigang Chen*, Shiqian Chen, Liming Wang, Wanming Zhai  
 *IEEE Transactions on Instrumentation and Measurement*, 73 (2024) 1–11. [[Paper](https://ieeexplore.ieee.org/abstract/document/10663573)] [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1109/TIM.2024.3446655%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:4MWp96NkSFoC))
 1. **Cross-domain fault diagnosis of induction motor based on an improved unsupervised generative adversarial network and fine-tuning under limited labeled data**  
-**Xin Chen**, Zaigang Chen*  
+[Xin Chen](), Zaigang Chen*  
 *Measurement*, 249 (2025) 116988. [[Paper](https://www.sciencedirect.com/science/article/pii/S0263224125003471)] [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1016/j.measurement.2025.116988%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:L7CI7m0gUJcC)))
 1. **A Layer-wise Information-guided Conditional Generative Model for Industrial Data Augmentation**  
-**Xin Chen**, Zaigang Chen*, Junsheng Xin, Yuqing Liu, Liming Wang  
+[Xin Chen](), Zaigang Chen*, Junsheng Xin, Yuqing Liu, Liming Wang  
 [Under Review] [[Code](https://github.com/xinswjtu/UnetGen-IFD)]
 1. **Gen-UDA: A Novel Generation to Unsupervised Domain Adaptation Framework for Machine Fault Detection with Limited Target Measurements**  
-**Xin Chen**, Zaigang Chen*, Yuqing Liu, Wanming Zhai  
+[Xin Chen](), Zaigang Chen*, Yuqing Liu, Wanming Zhai  
 [Under Review] [[Code](https://github.com/xinswjtu/Gen-UDA)]
 1. **An effective two-stage clustering method for mixing matrix estimation in instantaneous underdetermined blind source separation and its application in fault diagnosis**  
-Jindong Wang, **Xin Chen**, Haiyang Zhao, Yanyang Li, Delong Yu  
+Jindong Wang, [Xin Chen](), Haiyang Zhao*, Yanyang Li, Delong Yu  
 *IEEE Access*, 9 (2021) 115256-115269. [[Paper](https://ieeexplore.ieee.org/abstract/document/9514888))] [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1109/ACCESS.2021.3105538%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:tYavs44e6CUC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:xtoqd-5pKcoC))))
 1. **Fault feature extraction for reciprocating compressors based on underdetermined blind source separation**  
-Jindong Wang, **Xin Chen**, Haiyang Zhao, Yanyang Li, Zujian Liu  
+Jindong Wang, [Xin Chen](), Haiyang Zhao*, Yanyang Li, Zujian Liu  
 *Entropy*, 9 (2021) 1217. [[Paper](https://www.mdpi.com/1099-4300/23/9/1217))] [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.3390/e23091217%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:PoWvk5oyLR8C)))
 1. **Parameter-adaptive Feature Mode Decomposition Method for Compound Fault Feature Extraction in Rotating Machinery**  
-Junsheng Xin, Zaigang Chen*, **Xin Chen**, Liang Guo  
+Junsheng Xin, Zaigang Chen*, [Xin Chen](), Liang Guo  
 *IEEE Sensors Journal*, 25 (2025) 17491-17502. [[Paper](https://ieeexplore.ieee.org/abstract/document/10944221))] [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1109/JSEN.2025.3553284%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:tYavs44e6CUC)))
 
 
 ### Conference / Oral Presentations
 1. **A semi-supervised learning fault diagnosis method for induction motor using generative adversarial networks and fine-tuning**  
-**Xin Chen**, Zaigang Chen*  
+[Xin Chen]()*, Zaigang Chen*  
 *2024 8th International Conference on Condition Monitoring of Machinery in Non-Stationary Operations (CMMNO)*, Wenzhou, May 11-13, 2024. (🏆**Best Paper Award**)
 1. **Multiband Clustering Weighted Envelope Spectrum for Axle-Box Bearing Fault Diagnosis**  
-Junsheng Xin, Zaigang Chen*, **Xin Chen**  
+Junsheng Xin, Zaigang Chen*, [Xin Chen]()  
 *2025 International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM)*, Urumqi, August 1-4, 2025. (🏆**Best Poster Award**) [[Paper](https://ieeexplore.ieee.org/document/11239905)]
 
 
