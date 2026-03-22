@@ -14,7 +14,7 @@ He is currently pursuing a Ph.D. in Traffic and Transportation Engineering under
 ## 📝 Publications
 ### Journal
 1. **Discriminative Condition-Guided Generative Model for Induction Motor Fault Diagnosis with Limited Data**  
-**Xin Chen**, Zaigang Chen*, Junsheng Xin, Liang Guo, Wanming Zhai  
+*Xin Chen*, Zaigang Chen*, Junsheng Xin, Liang Guo, Wanming Zhai  
 *IEEE Transactions on Industrial Informatics*, 22 (2026) 1359-1370. [[Paper](https://ieeexplore.ieee.org/document/11278460)] [[Code](https://github.com/xinswjtu/DCGM-IFD)]
 1. **Pseudo-label assisted semi-supervised adversarial enhancement learning for fault diagnosis of gearbox degradation with limited data** [![Citations](https://img.shields.io/badge/dynamic/json?label=citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10.1016/j.ymssp.2024.112108%3Ffields%3DcitationCount)]([https://scholar.google.com/scholar?cluster=XXXXXXXXX]([https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:4MWp96NkSFoC](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=5dbp1zMAAAAJ&citation_for_view=5dbp1zMAAAAJ:BwyfMAYsbu0C)))  
 **Xin Chen**, Zaigang Chen*, Liang Guo, Wanming Zhai  
@@ -53,6 +53,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 
 ## 👨‍💼 Journal Reviewer
 * Advanced Engineering Informatics
+* Pattern Recognition
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Instrumentation and Measurement (🔥**2025 Outstanding Reviewer**)
 * IEEE Access
