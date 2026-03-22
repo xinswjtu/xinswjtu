@@ -14,7 +14,7 @@ He is currently pursuing a Ph.D. in Traffic and Transportation Engineering under
 ## 📝 Publications
 ### Journal
 1. **Discriminative Condition-Guided Generative Model for Induction Motor Fault Diagnosis with Limited Data**  
-**X. CHEN**, Zaigang Chen*, Junsheng Xin, Liang Guo, Wanming Zhai  
+[Xin Chen](), Zaigang Chen*, Junsheng Xin, Liang Guo, Wanming Zhai  
 *IEEE Transactions on Industrial Informatics*, 22 (2026) 1359-1370. [[Paper](https://ieeexplore.ieee.org/document/11278460)] [[Code](https://github.com/xinswjtu/DCGM-IFD)]
 1. **Pseudo-label assisted semi-supervised adversarial enhancement learning for fault diagnosis of gearbox degradation with limited data**  
 **Xin Chen**, Zaigang Chen*, Liang Guo, Wanming Zhai  
