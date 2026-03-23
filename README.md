@@ -61,6 +61,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 * Cognitive Computation
 * Scientific Reports
 * Journal of Supercomputing
+* Visual Computer
 * Entropy
 
 
