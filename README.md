@@ -51,7 +51,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 *2025 International Conference on Equipment Intelligent Operation and Maintenance (ICEIOM)*, Urumqi, August 1-4, 2025. (🏆**Best Poster Award**) [[Paper](https://ieeexplore.ieee.org/document/11239905)]
 
 
-## 👨‍💼 Journal Reviewer
+## 👨‍💼 Peer Review (Journals & Conferences)
 * Advanced Engineering Informatics
 * Pattern Recognition
 * IEEE Transactions on Industrial Informatics
@@ -63,6 +63,8 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 * Journal of Supercomputing
 * Visual Computer
 * Entropy
+* Engineering Research Express
+* International Conference on Equipment Intelligent Operation and Maintenance
 
 
 ## 📬 Contact
