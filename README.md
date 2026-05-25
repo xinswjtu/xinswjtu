@@ -54,6 +54,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 ## 👨‍💼 Peer Review (Journals & Conferences)
 * Advanced Engineering Informatics
 * Pattern Recognition
+* Neurocomputing
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Instrumentation and Measurement (🔥**2025 Outstanding Reviewer**)
 * IEEE Access
