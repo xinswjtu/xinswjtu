@@ -63,6 +63,7 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 * Scientific Reports
 * Journal of Supercomputing
 * Visual Computer
+* Computing
 * Entropy
 * Engineering Research Express
 * International Conference on Equipment Intelligent Operation and Maintenance
