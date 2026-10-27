@@ -3,6 +3,14 @@
 He is currently pursuing a Ph.D. in Traffic and Transportation Engineering under the supervision of Prof. [Zaigang Chen](https://faculty.swjtu.edu.cn/chenzaigang/zh_CN/index.htm) at the State Key Laboratory of Rail Transit Vehicle System (RVL), Southwest Jiaotong University (SWJTU), Chengdu, China. He has published multiple research papers in reputable journals, including **IEEE TII**, **IEEE TIM**, and **MSSP**. In 2024, he was honored with the **Best Paper Award** at the International Conference on Condition Monitoring of Machinery in Non-Stationary Operations (CMMNO). Additionally, he also serves as a reviewer for several journals, such as IEEE TII / TIM / ACCESS, Advanced Engineering Informatics, Signal, Image and Video Processing, and Cognitive Computation. He was recognized as an **Outstanding Reviewer of 2025** by the IEEE Instrumentation and Measurement Society for providing thorough, timely, and objective peer reviews. His research interests include machine fault diagnosis, deep generative model, and vibration signal processing.
 
 
+## 🔬 Research Interests
+- **Fault Diagnosis** — Intelligent fault diagnosis and health assessment of rotating machinery, including bearings, gears, and induction motors.
+- **Deep Generative Modeling** — Development of deep generative models, including autoencoders (AEs), conditional generative adversarial networks (GANs), and diffusion models, for machinery fault data modeling and synthesis.
+- **Data Augmentation** — Synthetic data generation to support downstream fault diagnosis tasks, addressing challenges such as class imbalance, few-shot learning, and limited labeled data across domains and operating conditions.
+- **Transfer Learning** — Domain adaptation and knowledge transfer for cross-domain fault diagnosis, with an emphasis on improving model generalization under distribution shifts.
+- **Signal Processing** — Vibration signal analysis, time-frequency representations, and feature extraction for machinery condition monitoring and fault diagnosis.
+
+
 ## 📚 Academic Gateway
 * [Google scholar](https://scholar.google.com.hk/citations?user=5dbp1zMAAAAJ&hl=zh-CN)
 * [Google scholar (mirror)](https://xs.gupiaoq.com/citations?user=5dbp1zMAAAAJ&hl=zh-CN&oi=sra)
