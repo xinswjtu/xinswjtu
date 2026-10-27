@@ -5,7 +5,7 @@ He is currently pursuing a Ph.D. in Traffic and Transportation Engineering under
 
 ## 📚 Academic Gateway
 * [Google scholar](https://scholar.google.com.hk/citations?user=5dbp1zMAAAAJ&hl=zh-CN)
-* [Google scholar (Mirror)](https://xs.gupiaoq.com/citations?user=5dbp1zMAAAAJ&hl=zh-CN&oi=sra)
+* [Google scholar (mirror)](https://xs.gupiaoq.com/citations?user=5dbp1zMAAAAJ&hl=zh-CN&oi=sra)
 * [ORCID](https://orcid.org/0009-0002-9315-7666)
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59322906300)
 * [WOS](https://webofscience.clarivate.cn/wos/author/record/MHR-7293-2025)
