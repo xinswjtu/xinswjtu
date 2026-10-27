@@ -5,7 +5,7 @@ He is currently pursuing a Ph.D. in Traffic and Transportation Engineering under
 
 ## 🔬 Research Interests
 - **Fault Diagnosis** — Intelligent fault diagnosis and health assessment of rotating machinery, including bearings, gears, and induction motors.
-- **Deep Generative Modeling** — Development of deep generative models, including autoencoders (AEs), conditional generative adversarial networks (GANs), and diffusion models, for machinery fault data modeling and synthesis.
+- **Generative Modeling** — Development of deep generative models, including autoencoders (AEs), conditional generative adversarial networks (GANs), and diffusion models, for machinery fault data modeling and synthesis.
 - **Data Augmentation** — Synthetic data generation to support downstream fault diagnosis tasks, addressing challenges such as class imbalance, few-shot learning, and limited labeled data across domains and operating conditions.
 - **Transfer Learning** — Domain adaptation and knowledge transfer for cross-domain fault diagnosis, with an emphasis on improving model generalization under distribution shifts.
 - **Signal Processing** — Vibration signal analysis, time-frequency representations, and feature extraction for machinery condition monitoring and fault diagnosis.
