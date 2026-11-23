@@ -61,9 +61,9 @@ Junsheng Xin, Zaigang Chen*, **Xin Chen**
 
 
 ## 👨‍💼 Peer Review (Journals & Conferences)
-* **Elsevier**：Pattern Recognition / Neurocomputing / Advanced Engineering Informatics / ISA Transactions 
+* **Elsevier**：Pattern Recognition / Neurocomputing / Advanced Engineering Informatics / ISA Transactions / International Journal of Cognitive Computing in Engineering
 * **IEEE**: IEEE Transactions on Industrial Informatics / IEEE Transactions on Instrumentation and Measurement (🔥**2025 Outstanding Reviewer**) / IEEE Access
-* **Springer Nature**: Signal, Image and Video Processing / Cognitive Computation / Scientific Reports / Journal of Supercomputing / The Visual Computer / Discover Applied Sciences / Computing
+* **Springer Nature**: Signal, Image and Video Processing / Cognitive Computation / Scientific Reports / Journal of Supercomputing / The Visual Computer / Discover Applied Sciences / Computing / Iranian Journal of Science and Technology, Transactions of Mechanical Engineering
 * **MDPI**: Entropy
 * **IOP Publishing**: Engineering Research Express
 * **Conference**: International Conference on Equipment Intelligent Operation and Maintenance
